@@ -188,4 +188,30 @@ main {
     flex-direction: column;
     justify-content: center;
   }
+
+  .sm-hide {
+    display: none;
+  }
+
+  .header {
+    background-image: url(""), url("");
+  }
+
+  .banner {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 2px;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0px;
+  }
 }
